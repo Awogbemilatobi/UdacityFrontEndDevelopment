@@ -1,0 +1,26 @@
+.wholepage{
+    border: 1px solid rgb(206, 218, 212);
+    box-shadow: 5px 5px rgb(206, 218, 212);
+    width: 320px; 
+}
+.header{
+    padding-left: 10px;
+}
+img {
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: block;
+    width: 94%;
+}
+.restofpage {
+    border: 1px solid rgb(206, 218, 212);
+    padding-left: 10px;
+    display: block;
+    margin: 10px;
+    width: 90%;
+}
+.list{
+    list-style-type: none;
+    padding-left: 0pt;
+}
